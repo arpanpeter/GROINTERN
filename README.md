@@ -10,7 +10,5 @@ webbrowser
 
 
 
-![Screenshot](recommend1.png)
-![Screenshot](recommend2.png)
-![Screenshot](recommend3.png)
+
 # GROINTERN
